@@ -1,3 +1,4 @@
+@import 'base/animation';
 @font-face {
     font-family: 'Museo Sans 300 Light';
     src: url('../fonts/MuseoSansCyrl-300.ttf');
@@ -48,3 +49,4 @@
 @import 'blocks/_feedbacks.scss';
 @import 'blocks/footer';
 @import 'blocks/models';
+@import 'blocks/pageup';
